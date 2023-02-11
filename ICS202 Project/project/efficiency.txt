@@ -1,0 +1,7 @@
+method     -----> complexity 
+
+addWord    -----> O(log n)
+findWord   -----> O(log n)
+deleteWord -----> O(log n)
+findSimilar ----> O(n)
+toArray    -----> O(n)
