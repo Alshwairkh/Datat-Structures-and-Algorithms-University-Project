@@ -1,6 +1,6 @@
 # Datat-Structures-and-Algorithms-University-Project
 
-The objective of this porject was to design and implement a dictionary data structure. The dictionary holds a list of words to be used in a spell checker.
+The objective of this project was to design and implement a dictionary data structure. The dictionary holds a list of words to be used in a spell checker.
 
 I have implemented the following operations to the data structure:
 1.	Initialization 
